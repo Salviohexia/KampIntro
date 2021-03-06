@@ -24,5 +24,6 @@ namespace DegerVeReferansTipler
             //                                                                                                        sayilar2[0] = 999,  yapınca 102 heap'in ilk elemanı 999 olur.
             //                                                                                                        Böylece sayilar1[0] = 999 olur
         }
+
     }
 }

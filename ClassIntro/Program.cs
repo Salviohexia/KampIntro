@@ -47,4 +47,5 @@ namespace ClassIntro
         public int IzlenmeOrani { get; set; }
 
     }
+
 }

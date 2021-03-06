@@ -14,4 +14,5 @@ namespace Metotlar
         public int StokAdedi { get; set; }
 
     }
+
 }
